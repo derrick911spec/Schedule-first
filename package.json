@@ -1,0 +1,7 @@
+{
+  "name": "schedule-first",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test/autoApproveLeave.test.js"
+  }
+}
